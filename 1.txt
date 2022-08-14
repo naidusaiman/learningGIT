@@ -1,0 +1,1 @@
+My first program to learn git in learning GIT and will try to push from gitbash
